@@ -1,0 +1,4 @@
+# Backup files and system temporaries
+*~
+.*.swp
+*.swo
